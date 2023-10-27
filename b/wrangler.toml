@@ -1,0 +1,5 @@
+name = "b"
+main = "index.ts"
+
+[dev]
+port = 6060

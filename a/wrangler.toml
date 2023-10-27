@@ -1,0 +1,9 @@
+name = "a"
+main = "index.ts"
+
+[dev]
+port = 6061
+
+[[services]]
+binding = "B"
+service = "b"
